@@ -1,2 +1,2 @@
 # hello-demo
-This is demo for my first code
+This is demo for my first code.
